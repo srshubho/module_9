@@ -8,8 +8,8 @@
                 <div class="col-sm-4">
                     <div class="single-horizontal-timeline">
                         <div class="experience-time">
-                            <h2>2008 - 2010</h2>
-                            <h3>master <span>of </span> computer science</h3>
+                            <h2>2008 </h2>
+                            <h3>S.S.C</h3>
                         </div>
                         <div class="timeline-horizontal-border">
                             <i class="fa fa-circle" aria-hidden="true"></i>
@@ -18,13 +18,10 @@
                         <div class="timeline">
                             <div class="timeline-content">
                                 <h4 class="title">
-                                    university of north carolina
+                                    Mirza Ahmed Ispahani High School
                                 </h4>
-                                <h5>north carolina, USA</h5>
-                                <p class="description">
-                                    Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu
-                                    fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident.
-                                </p>
+                                <h5>Khulshi,Chittagong</h5>
+
                             </div>
                         </div>
                     </div>
@@ -32,32 +29,28 @@
                 <div class="col-sm-4">
                     <div class="single-horizontal-timeline">
                         <div class="experience-time">
-                            <h2>2004 - 2008</h2>
+                            <h2>2011</h2>
+                            <h3>H.S.C</h3>
+                        </div>
+                        <div class="timeline-horizontal-border">
+                            <i class="fa fa-circle" aria-hidden="true"></i>
+                            <span class="single-timeline-horizontal"></span>
+                        </div>
+                        <div class="timeline">
+                            <div class="timeline-content">
+                                <h4 class="title">
+                                    Bangladesh Navy School and College
+                                </h4>
+                                <h5>CEPZ,Chittagong</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="single-horizontal-timeline">
+                        <div class="experience-time">
+                            <h2>2022</h2>
                             <h3>bachelor <span>of </span> computer science</h3>
-                        </div>
-                        <div class="timeline-horizontal-border">
-                            <i class="fa fa-circle" aria-hidden="true"></i>
-                            <span class="single-timeline-horizontal"></span>
-                        </div>
-                        <div class="timeline">
-                            <div class="timeline-content">
-                                <h4 class="title">
-                                    university of north carolina
-                                </h4>
-                                <h5>north carolina, USA</h5>
-                                <p class="description">
-                                    Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu
-                                    fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="single-horizontal-timeline">
-                        <div class="experience-time">
-                            <h2>2004 - 2008</h2>
-                            <h3>bachelor <span>of </span> creative design</h3>
                         </div>
                         <div class="timeline-horizontal-border">
                             <i class="fa fa-circle" aria-hidden="true"></i>
@@ -67,13 +60,10 @@
                         <div class="timeline">
                             <div class="timeline-content">
                                 <h4 class="title">
-                                    university of bolton
+                                    Premier University Chittagong
                                 </h4>
-                                <h5>bolton, united kingdome</h5>
-                                <p class="description">
-                                    Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu
-                                    fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident.
-                                </p>
+                                <h5>cinema palace,Chittagong</h5>
+
                             </div>
                         </div>
                     </div>

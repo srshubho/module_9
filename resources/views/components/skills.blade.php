@@ -8,7 +8,7 @@
                 <div class="col-md-6">
                     <div class="single-skill-content">
                         <div class="barWrapper">
-                            <span class="progressText">adobe photoshop</span>
+                            <span class="progressText">php</span>
                             <div class="single-progress-txt">
                                 <div class="progress ">
                                     <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10"
@@ -20,7 +20,7 @@
                             </div>
                         </div>
                         <div class="barWrapper">
-                            <span class="progressText">adobe illustrator</span>
+                            <span class="progressText">Laravel</span>
                             <div class="single-progress-txt">
                                 <div class="progress ">
                                     <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="10"
@@ -32,7 +32,7 @@
                             </div>
                         </div>
                         <div class="barWrapper">
-                            <span class="progressText">adobe after effects</span>
+                            <span class="progressText">problem solving</span>
                             <div class="single-progress-txt">
                                 <div class="progress ">
                                     <div class="progress-bar" role="progressbar" aria-valuenow="97" aria-valuemin="10"
@@ -44,7 +44,7 @@
                             </div>
                         </div>
                         <div class="barWrapper">
-                            <span class="progressText">sketch</span>
+                            <span class="progressText">javascript</span>
                             <div class="single-progress-txt">
                                 <div class="progress ">
                                     <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10"
