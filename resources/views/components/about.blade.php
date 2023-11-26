@@ -26,8 +26,10 @@
                             expectations.
                         </p>
                         <h4>Tech Stack:</h4>
-                        <p> I'm proficient in a range of technologies, including HTML, CSS, JavaScript, and frameworks
-                            like React.js and Node.js. I embrace the challenge of staying updated with the latest
+                        <p> I'm proficient in a range of technologies, including HTML, CSS, JavaScript, php and
+                            frameworks
+                            like Laravel, React.js and next.js. I embrace the challenge of staying updated with the
+                            latest
                             industry trends to ensure that the solutions I build are cutting-edge and future-proof.</p>
 
                         <h4> Why Work With Me:</h4>
